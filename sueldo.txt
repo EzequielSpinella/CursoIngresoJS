@@ -1,0 +1,9 @@
+descuento = sueldo* "/100
+sueldo= sueldo - descuento
+descuento 20%: sueldo * ( 1- 0,2) = (sueldo * 0,7) 
+
+
+aumento: sueldo + sueldo * 20/100
+ sueldo + sueldo  *  0,2
+sueldo   (1+0,2)
+sueldo * 1,25
